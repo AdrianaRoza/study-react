@@ -8,7 +8,7 @@ export default function Body(){
         return ' DSG Cursos'
     } 
 
-    const  vlr= ' R$ 150,00' 
+    const  vlr= ' R$ 00,00' 
     const  ds= ' 27 e 28 de Setembro'
 
     return(

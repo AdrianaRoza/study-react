@@ -10,6 +10,11 @@ header {
     justify-content: center;
 }
 
+.clock{
+    text-align: center;
+    color: rgb(143, 132, 132);
+}
+
 .textH2{
     color: red;
     font-size: 3em;
@@ -32,4 +37,9 @@ header {
 .cvd a {
     text-decoration: none;
     color: rgb(228, 10, 10);
+}
+
+.cvd a:hover{
+    background-color: red;
+    color: white;
 }
