@@ -2,10 +2,10 @@ import React from "react";
 
 export default function Dados({crs, vlr, ds}){
     return(
-        <section>
+        <section className="cvd">
             <p>Curso:{crs()}</p>
             <p>Valor:{vlr}</p>
-            <p>Dias:{ds}</p>
+            <a href="https://github.com/AdrianaRoza" target='_blank'>Github Adriana</a>
 
         </section>
     )
